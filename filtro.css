@@ -1,3 +1,5 @@
+/* Se agregaron comentarios para describir las reglas de estilo */
+
 input {
   width: 500px;
   height: 40px;
@@ -5,7 +7,7 @@ input {
 }
 
 #lista-de-productos {
-  display: flex
+  display: flex; /* Se agregó el punto y coma (;) al final de la regla */
 }
 
 .producto {
@@ -20,5 +22,5 @@ input {
 
 .producto img {
   width: 70%;
-  height: auto
+  height: auto; /* Se agregó el punto y coma (;) al final de la regla */
 }
